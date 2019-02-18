@@ -1,2 +1,2 @@
 # UCI-Get.Start.w.Go-course
-Code activities for all modules solved.
+Code activities for modules 2 to 4 solved.
